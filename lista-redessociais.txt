@@ -1,3 +1,9 @@
+!
+! Title: Redes Sociais (Block)
+! Description: Lista de Bloqueio de Redes Sociais
+! Version: 1.0
+! Homepage: https://github.com/emersonbock/bloqueios-dns
+! Last modified: 2026-03-19T13:36:44.301Z
 ||facebook.com^
 ||instagram.com^
 ||threads.com^
