@@ -1,3 +1,9 @@
+!
+! Title: Sites Adultos (Block)
+! Description: Lista de Bloqueio de Sites Adultos
+! Version: 1.0
+! Homepage: https://github.com/emersonbock/bloqueios-dns
+! Last modified: 2026-03-19T13:36:44.301Z
 ||xvideos.com^
 ||xvideos-cdn^
 ||pornhub.com^
