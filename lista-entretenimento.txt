@@ -1,1 +1,15 @@
+!
+! Title: Entretenimento (Block)
+! Description: Lista de Bloqueio de Sites de Entretenimento
+! Version: 1.0
+! Homepage: https://github.com/emersonbock/bloqueios-dns
+! Last modified: 2026-03-19T13:36:44.301Z
+||netflix.com^
+||primevideo.com^
+||hbomax.com^
+||globoplay.globo.com^
+||twitch.tv^
+||play.mercadolivre.com.br^
+||disneyplus.com^
+||crunchyroll.com^
 
