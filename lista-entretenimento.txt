@@ -12,4 +12,9 @@
 ||play.mercadolivre.com.br^
 ||disneyplus.com^
 ||crunchyroll.com^
+||meridionalfm.com.br^
+||radios.com.br^
+||bandfmsinop.com.br^
+||jovempan.com.br/afiliada/sinop-fm^
+
 
